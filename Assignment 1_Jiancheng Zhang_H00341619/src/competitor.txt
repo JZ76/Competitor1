@@ -1,0 +1,15 @@
+100, Keith John Talbot, Common, UK, 31, 5,4,5,4,3
+101, Jane Macdonald Uncommon, United Kindom, 23, 3,1,3,2,4
+102, Jiancheng Zhang, Legendary, China, 22, 4,5,3,5,2
+
+103, Yennefer Of Venger, Rare, Skellige, 24, 5,5,3,4,5
+104, Vesemir Of Kaer, Uncommon, Novigrid, 86, 4,4,3,5,2
+fdgfsfgsfsg
+105, Geralt Of Rivia, Rare, Oxenfurt, 105, 5,5,5,5,5
+106, KarenHarding, Rare, Austrilia, 25, 5,5,5,4,1
+ , , , , , , , , , , , , , , , , , , , , 
+100, Sarah Green, common, Iceland, 20, 4,0,4,2,3
+107, Paige Howells, Common, Austrilia, 23, 0,3,2,5,2
+108, Jusmine Nguyen, Rare, Vietnam, 21, 1,0,5,2,4
+109, Darth Maul, Legendary, Dathomir, 52, 5,5,5,5,5
+110, Shikin Sasaki, Uncommon, Japan, 25, 0,3,2,3,1

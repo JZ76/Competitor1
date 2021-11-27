@@ -1,0 +1,142 @@
+Competitors table:
+Number	Name			Level		Country		Age	Scores
+100	Keith John Talbot		Common		UK		31	5, 4, 5, 4, 3	
+102	Jiancheng Zhang		Legendary		China		22	4, 5, 3, 5, 2	
+103	Yennefer Of Venger		Rare		Skellige		24	5, 5, 3, 4, 5	
+104	Vesemir Of Kaer		Uncommon		Novigrid		86	4, 4, 3, 5, 2	
+105	Geralt Of Rivia		Rare		Oxenfurt		105	5, 5, 5, 5, 5	
+106	WRONG NAME FORMAT		Rare		Austrilia		25	5, 5, 5, 4, 1	
+107	Paige Howells		Common		Austrilia		23	0, 3, 2, 5, 2	
+108	Jusmine Nguyen		Rare		Vietnam		21	1, 0, 5, 2, 4	
+109	Darth Maul		Legendary		Dathomir		52	5, 5, 5, 5, 5	
+110	Shikin Sasaki		Uncommon		Japan		25	0, 3, 2, 3, 1	
+
+Full details for 100
+Competitor number: 100
+Name: Keith John Talbot
+Age: 31
+Scores: 5, 4, 5, 4, 3
+Overall score: 4.3
+Level: Common
+Country: UK
+
+Full details for 102
+Competitor number: 102
+Name: Jiancheng Zhang
+Age: 22
+Scores: 4, 5, 3, 5, 2
+Overall score: 4.0
+Level: Legendary
+Country: China
+
+Full details for 103
+Competitor number: 103
+Name: Yennefer Of Venger
+Age: 24
+Scores: 5, 5, 3, 4, 5
+Overall score: 4.7
+Level: Rare
+Country: Skellige
+
+Full details for 104
+Competitor number: 104
+Name: Vesemir Of Kaer
+Age: 86
+Scores: 4, 4, 3, 5, 2
+Overall score: 3.7
+Level: Uncommon
+Country: Novigrid
+
+Full details for 105
+Competitor number: 105
+Name: Geralt Of Rivia
+Age: 105
+Scores: 5, 5, 5, 5, 5
+Overall score: 5.0
+Level: Rare
+Country: Oxenfurt
+
+Full details for 106
+Competitor number: 106
+Name: WRONG NAME FORMAT
+Age: 25
+Scores: 5, 5, 5, 4, 1
+Overall score: 4.7
+Level: Rare
+Country: Austrilia
+
+Full details for 107
+Competitor number: 107
+Name: Paige Howells
+Age: 23
+Scores: 0, 3, 2, 5, 2
+Overall score: 2.3
+Level: Common
+Country: Austrilia
+
+Full details for 108
+Competitor number: 108
+Name: Jusmine Nguyen
+Age: 21
+Scores: 1, 0, 5, 2, 4
+Overall score: 2.3
+Level: Rare
+Country: Vietnam
+
+Full details for 109
+Competitor number: 109
+Name: Darth Maul
+Age: 52
+Scores: 5, 5, 5, 5, 5
+Overall score: 5.0
+Level: Legendary
+Country: Dathomir
+
+Full details for 110
+Competitor number: 110
+Name: Shikin Sasaki
+Age: 25
+Scores: 0, 3, 2, 3, 1
+Overall score: 2.0
+Level: Uncommon
+Country: Japan
+
+Short details for 100
+CN 100 (KJT) has overall score 4.3.
+
+Short details for 102
+CN 102 (JZ) has overall score 4.0.
+
+Short details for 103
+CN 103 (YOV) has overall score 4.7.
+
+Short details for 104
+CN 104 (VOK) has overall score 3.7.
+
+Short details for 105
+CN 105 (GOR) has overall score 5.0.
+
+Short details for 106
+CN 106 (WRONG NAME FORMAT) has overall score 4.7.
+
+Short details for 107
+CN 107 (PH) has overall score 2.3.
+
+Short details for 108
+CN 108 (JN) has overall score 2.3.
+
+Short details for 109
+CN 109 (DM) has overall score 5.0.
+
+Short details for 110
+CN 110 (SS) has overall score 2.0.
+
+STATISTICAL:
+
+The competitors below got same highest overall score: Geralt Of Rivia, Darth Maul, and the overall score is 5.0 .
+There are 10 competitors in this game.
+The average age of competitors is 41.4 years old.
+There are 2 common level competitors, 2 uncommon level competitors, 4 rare level competitors and 2 legendary level competitor.
+The following individual scores were awarded:
+Scores:   		0	1	2	3	4	5
+Frequency: 	3	3	6	7	8	23
